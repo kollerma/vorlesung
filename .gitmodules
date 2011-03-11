@@ -1,0 +1,6 @@
+[submodule "serie1"]
+	path = serie1
+	url = git@github.com:kollerma/serie1.git
+[submodule "r-tutorial"]
+	path = r-tutorial
+	url = git@github.com:kollerma/r-tutorial.git
